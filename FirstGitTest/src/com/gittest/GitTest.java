@@ -11,4 +11,8 @@ public class GitTest {
     public void test2(){
         System.out.println("new code write2");
     }
+    //clone后新增的代码
+    public void test3(){
+        System.out.println("new code write3");
+    }
 }
