@@ -13,6 +13,7 @@ public class GitTest {
     }
     //clone后新增的代码
     //ihi
+    //kjk
     public void test3(){
         System.out.println("new code write3");
     }
