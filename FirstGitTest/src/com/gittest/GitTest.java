@@ -7,6 +7,7 @@ public class GitTest {
     public void test(){
         System.out.println("new code ");
     }
+    //新增的代码
     public void test2(){
         System.out.println("new code write2");
     }
